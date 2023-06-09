@@ -1,4 +1,4 @@
-# Mobile App Automation Test for Application Super Using WebdriverIO, Cucumber
+# Mobile App Automation Test Using WebdriverIO, Cucumber
 This is a mobile automation script based on WebdriverIO, TypeScript, and Cucumber
 
 ## Preconditions:
