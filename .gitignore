@@ -1,0 +1,11 @@
+.DS_Store
+/.idea
+/node_modules/
+/allure-results/
+
+/.tmp/
+/.tsbuild/
+appium.log
+/.env
+
+
